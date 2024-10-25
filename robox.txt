@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin/
+Allow: /
+Sitemap: https://mi-pelicula-favorita-the-marine-5.vercel.app/index_inicio.html/sitemap.xml
